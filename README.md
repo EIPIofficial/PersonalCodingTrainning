@@ -1,2 +1,2 @@
 # PersonalCodingTrainning
-To train my personal coding level.
+To train my coding level.
